@@ -1,0 +1,29 @@
+* Course 4: Analyze Data — Sorting and Filtering
+
+** Sorting
+
+*** Arrange data in order
+
+**** Ascending
+**** Descending
+
+*** Use Cases
+**** Rank values
+**** Identify highest/lowest
+
+** Filtering
+
+*** Show only specific data
+
+**** Conditions
+***** Equals
+***** Greater than
+***** Contains
+
+*** Use Cases
+**** Focus on subsets
+**** Isolate trends
+
+** Benefit
+
+*** Speeds up analysis by narrowing data

@@ -1,0 +1,29 @@
+* Course 4: Analyze Data — Formulas and Functions
+
+** Formula
+
+*** Instruction to perform calculation
+
+** Common Functions
+
+*** SUM
+**** Add values
+
+*** AVERAGE
+**** Calculate mean
+
+*** COUNT
+**** Count entries
+
+*** IF
+**** Conditional logic
+
+** Benefits
+
+*** Automate calculations
+*** Reduce manual errors
+*** Improve efficiency
+
+** Example
+
+*** =SUM(A1:A10)

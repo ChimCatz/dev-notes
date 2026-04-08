@@ -1,0 +1,23 @@
+* Course 4: Analyze Data — Data Analysis Process
+
+** Key Steps
+
+*** Organize Data
+**** Structure data for analysis
+**** Ensure consistency
+
+*** Transform Data
+**** Clean and format data
+**** Prepare for calculations
+
+*** Analyze Data
+**** Identify patterns and trends
+**** Compare results
+
+*** Interpret Results
+**** Extract insights
+**** Support decisions
+
+** Goal
+
+*** Turn raw data into actionable insights
