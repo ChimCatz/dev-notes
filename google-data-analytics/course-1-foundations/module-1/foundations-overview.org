@@ -1,0 +1,57 @@
+* Course 1: Foundations — Overview
+
+** Data Analysis
+*** Data analysis = turning data into insights
+*** Goal: support decision-making using facts
+
+** Data Analysis Process (6 Phases)
+
+*** ASK
+**** Define the problem
+**** Identify stakeholders
+**** Understand expectations
+
+*** PREPARE
+**** Collect data
+**** Store data properly
+**** Ensure fairness and accuracy
+
+*** PROCESS
+**** Clean data
+**** Remove errors and duplicates
+**** Transform into usable format
+
+*** ANALYZE
+**** Use tools (spreadsheets, SQL)
+**** Identify patterns and trends
+
+*** SHARE
+**** Communicate insights clearly
+**** Use visualizations
+
+*** ACT
+**** Apply insights to solve the problem
+
+** Key Concepts
+
+*** Data Ecosystem
+**** Group of data that interact with each other
+
+*** Cloud
+**** Store and access data online
+
+** Core Skills
+
+*** Visualization
+*** Strategy
+*** Problem-solving
+*** Correlation
+*** Big-picture thinking
+
+** Analyst Mindset
+
+*** Curiosity
+*** Context awareness
+*** Technical thinking
+*** Data design
+*** Data strategy
