@@ -1,0 +1,44 @@
+* Course 2: Ask Questions — Module 1
+
+** Problem Solving
+
+*** Key Idea
+**** Define the problem clearly before analyzing data
+**** Focus on root cause, not symptoms
+
+*** SMART Questions
+**** Specific → clear and focused
+**** Measurable → quantifiable
+**** Action-oriented → leads to action
+**** Relevant → aligned to business goal
+**** Time-bound → has deadline
+
+** Types of Questions
+
+*** Open-ended
+**** Encourages detailed answers
+**** Used for exploration
+
+*** Closed-ended
+**** Yes/No or fixed answers
+**** Used for validation
+
+** Stakeholders
+
+*** Definition
+**** People affected by the problem or solution
+
+*** Goal
+**** Understand needs and expectations
+
+** Effective Communication
+
+*** Ask clear and concise questions
+*** Avoid assumptions
+*** Confirm understanding
+
+** Common Mistakes
+
+*** Vague questions
+*** Leading questions
+*** Ignoring context
