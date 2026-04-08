@@ -1,0 +1,42 @@
+* Course 2: Ask Questions — Module 4
+
+** Stakeholder Communication
+
+*** Goal
+**** Deliver clear and useful insights
+
+*** Key Skills
+**** Clarity
+**** Conciseness
+**** Relevance
+
+** Data Storytelling
+
+*** Combine:
+**** Data
+**** Visuals
+**** Narrative
+
+*** Purpose
+**** Make insights understandable
+
+** Visual Communication
+
+*** Charts
+**** Bar → comparison
+**** Line → trends
+**** Pie → proportions
+
+** Common Issues
+
+*** Overloading with data
+*** Poor visualization choice
+*** Lack of context
+
+** Decision Support
+
+*** Analyst role
+**** Provide insights, not decisions
+
+*** Outcome
+**** Help stakeholders act confidently

@@ -1,0 +1,79 @@
+* Course 2: Ask Questions — Module 2
+
+** Data-Driven Decision Making
+
+*** Definition
+**** Use data to guide decisions instead of intuition
+
+*** Goal
+**** Reduce risk
+**** Improve accuracy
+**** Support business outcomes
+
+** Types of Data
+
+*** Quantitative
+**** Numerical data (e.g., revenue, counts)
+**** Used for measurable analysis
+
+*** Qualitative
+**** Descriptive data (e.g., feedback, opinions)
+**** Used for context and understanding
+
+** Metrics and KPIs
+
+*** Metric
+**** A measurable value (e.g., total sales)
+
+*** KPI (Key Performance Indicator)
+**** Metric tied to business goals
+**** Example:
+***** Revenue growth %
+***** Customer retention %
+
+** Data vs Intuition
+
+*** Data
+**** Objective
+**** Scalable
+**** Repeatable
+
+*** Intuition
+**** Subjective
+**** Experience-based
+**** Risk of bias
+
+** Asking Better Questions with Data
+
+*** Compare
+**** Before vs after
+**** This vs that
+
+*** Identify Trends
+**** Increase or decrease over time
+
+*** Find Relationships
+**** Correlation between variables
+
+** Common Pitfalls
+
+*** Using incomplete data
+*** Ignoring bias
+*** Misinterpreting correlations
+*** Over-relying on small samples
+
+** Example Use Case
+
+*** Business Problem
+**** Low sales in a specific month
+
+*** Approach
+**** Analyze historical sales data
+**** Compare monthly trends
+**** Identify anomalies
+
+*** Insight
+**** Drop linked to fewer transactions
+
+*** Action
+**** Adjust marketing strategy
