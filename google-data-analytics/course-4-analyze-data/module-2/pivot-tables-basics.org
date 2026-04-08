@@ -1,0 +1,20 @@
+* Course 4: Analyze Data — Data Validation
+
+** Purpose
+
+*** Ensure data accuracy and consistency
+
+** Methods
+
+*** Restrict input values
+*** Use dropdown lists
+*** Set rules (e.g., number range)
+
+** Benefits
+
+*** Prevent errors
+*** Maintain data quality
+
+** Example
+
+*** Allow only values between 1–100

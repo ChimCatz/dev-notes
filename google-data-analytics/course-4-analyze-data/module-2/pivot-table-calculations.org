@@ -1,0 +1,25 @@
+* Course 4: Analyze Data — Pivot Table Calculations
+
+** Common Calculations
+
+*** SUM
+**** Total value (e.g., total revenue)
+
+*** AVERAGE
+**** Mean value per group
+
+*** COUNT
+**** Number of records
+
+** Use Case
+
+*** Revenue Analysis
+
+**** Total revenue per year
+**** Average revenue per item
+**** Number of items per year
+
+** Insight Example
+
+*** High count + low average
+**** Indicates many low-performing entries

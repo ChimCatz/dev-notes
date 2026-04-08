@@ -1,0 +1,18 @@
+* Course 4: Analyze Data — Calculated Fields
+
+** Definition
+
+*** Custom formula inside pivot table
+
+** Example
+
+*** Average = SUM(Revenue) / COUNT(Revenue)
+
+** Purpose
+
+*** Create custom metrics
+*** Validate calculations
+
+** Limitation
+
+*** Works only within pivot data context

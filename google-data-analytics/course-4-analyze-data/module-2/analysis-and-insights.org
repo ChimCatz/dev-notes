@@ -1,0 +1,32 @@
+* Course 4: Analyze Data — Analysis and Insights
+
+** Analysis Flow
+
+*** Organize
+**** Group data (e.g., by year)
+
+*** Aggregate
+**** SUM, AVERAGE, COUNT
+
+*** Filter
+**** Focus on specific segments
+
+*** Calculate
+**** Percentages, comparisons
+
+*** Interpret
+**** Explain trends
+
+** Example
+
+*** 2015
+**** Highest count
+**** Lower average revenue
+
+*** Insight
+**** Higher % of low-performing entries
+
+** Key Takeaway
+
+*** Data alone is not enough
+**** Analysts must interpret and explain results
