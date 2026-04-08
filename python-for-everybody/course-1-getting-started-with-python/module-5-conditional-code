@@ -1,0 +1,149 @@
+* Conditional Statements in Python
+
+** Purpose of Conditional Execution
+- *Conditional execution* lets programs make decisions (not just run line-by-line)
+- Moves from *sequential execution → decision-based logic*
+- Core idea: program chooses paths like *true/false branches*
+- Makes programs behave *“intelligently” based on data*
+
+** if Statement (Core Concept)
+- *if* checks a condition (a *question*)
+- Returns *True or False* → controls execution
+- Example logic:
+  - If condition = True → run indented code
+  - If False → skip block
+- Structure:
+#+BEGIN_SRC python
+if condition:
+    indented_code
+#+END_SRC
+
+** Comparison Operators (Key Decision Tools)
+- These *do NOT change data*, only evaluate conditions
+- Common operators:
+  - *==* → equal to
+  - *!=* → not equal
+  - *<* → less than
+  - *<=* → less than or equal
+  - *>* → greater than
+  - *>=* → greater than or equal
+- Important:
+  - *=* → assignment
+  - *==* → comparison (very common mistake)
+
+** Indentation (Critical in Python)
+- Defines *code blocks (scope)*
+- Standard: *4 spaces*
+- Wrong indentation = *code breaks or behaves incorrectly*
+- Rules:
+  - After *if / else / for → indent*
+  - To end block → *de-indent*
+  - Avoid mixing *tabs + spaces* (causes hidden errors)
+
+** Multi-line Conditional Blocks
+- One condition can execute *multiple lines*
+- All lines must have same indentation
+- Example:
+#+BEGIN_SRC python
+if condition:
+    line1
+    line2
+    line3
+#+END_SRC
+
+** Nested Conditions
+- Condition inside another condition (*block within block*)
+- Adds deeper decision layers
+- Example logic:
+#+BEGIN_SRC python
+if A:
+    if B:
+        run_code
+#+END_SRC
+- Flow:
+  - Outer condition must be *True first*
+
+** if-else (Two-Way Decision)
+- Chooses *one of two paths*
+- Structure:
+#+BEGIN_SRC python
+if condition:
+    run_this
+else:
+    run_that
+#+END_SRC
+- Rule:
+  - Only *one block executes*, never both
+
+** elif (Multi-Way Decision)
+- Handles *multiple conditions in sequence*
+- Structure:
+#+BEGIN_SRC python
+if condition1:
+    ...
+elif condition2:
+    ...
+elif condition3:
+    ...
+else:
+    ...
+#+END_SRC
+- Behavior:
+  - Checked *top → bottom*
+  - Stops at *first True condition*
+  - Only *one block runs*
+- Key insight:
+  - Order matters → wrong order = unreachable code
+
+** Optional else
+- You can omit *else*
+- Result: possible that *no condition runs*
+- With else:
+  - At least *one block always executes*
+
+** Logical Pitfalls
+- Some conditions may *never run* due to earlier checks
+- Example:
+  - if x < 20 runs first
+  - then if x < 10 → never reached
+- Fix:
+  - Order from *most specific → most general*
+
+** try-except (Error Handling)
+- Prevents program crashes (*tracebacks*)
+- Acts like a *safe fallback system*
+- Structure:
+#+BEGIN_SRC python
+try:
+    risky_code
+except:
+    fallback_code
+#+END_SRC
+- Behavior:
+  - If try works → skip except
+  - If error occurs → run except
+- Example use:
+  - Converting user input to int
+  - Avoids crash on invalid input
+- Result:
+  - Program continues instead of stopping
+
+** Best Practices for try-except
+- Keep *try block small (1–2 lines max)*
+- Only wrap *risky operations*
+- Don’t hide all errors (hard to debug)
+
+** Execution Flow Summary
+- Normal flow:
+  - Top → bottom (sequential)
+- With conditions:
+  - Check → decide → execute → continue
+- With try-except:
+  - Try → success OR fallback → continue
+
+** Key Takeaways
+- Conditional logic controls *program behavior dynamically*
+- *Indentation = structure* (not optional)
+- *elif improves efficiency* vs multiple ifs
+- *try-except prevents crashes*, improves user experience
+- Correct structure reduces bugs by *50%+ in beginner codebases*

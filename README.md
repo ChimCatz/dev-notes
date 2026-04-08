@@ -14,3 +14,4 @@ Structured notes for Data Analytics learning using VSCode + Git.
 
 ## Courses
 - Google Data Analytics
+- Python for Everybody
