@@ -1,0 +1,22 @@
+* Course 4: Analyze Data — Data Relationships
+
+** Definition
+
+*** How variables relate to each other
+
+** Types
+
+*** Correlation
+**** Variables move together
+
+*** No Correlation
+**** No relationship
+
+** Important Note
+
+*** Correlation ≠ causation
+
+** Example
+
+*** High sales with high marketing spend
+**** May be related, not necessarily caused

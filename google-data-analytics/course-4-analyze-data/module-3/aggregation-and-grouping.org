@@ -1,0 +1,25 @@
+* Course 4: Analyze Data — Aggregation and Grouping
+
+** Aggregation
+
+*** Combine data into summary values
+
+**** SUM
+**** AVERAGE
+**** COUNT
+
+** Grouping
+
+*** Organize data into categories
+
+**** By time (year, month)
+**** By category
+
+** Purpose
+
+*** Simplify large datasets
+*** Identify trends
+
+** Example
+
+*** Total revenue per year

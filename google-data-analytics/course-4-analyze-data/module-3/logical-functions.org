@@ -1,0 +1,26 @@
+* Course 4: Analyze Data — Logical Functions
+
+** IF Function
+
+*** Purpose
+**** Perform conditional logic
+
+*** Structure
+**** IF(condition, value_if_true, value_if_false)
+
+** Examples
+
+*** Classify performance
+**** High / Low revenue
+
+*** Flag data
+**** Valid / Invalid entries
+
+** Nested Logic
+
+*** Combine multiple IF statements
+*** Handle complex conditions
+
+** Benefit
+
+*** Enables decision-making inside data

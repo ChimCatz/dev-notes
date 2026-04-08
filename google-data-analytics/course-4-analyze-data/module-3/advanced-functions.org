@@ -1,0 +1,24 @@
+* Course 4: Analyze Data — Advanced Functions
+
+** Purpose
+
+*** Perform complex calculations efficiently
+
+** Common Functions
+
+*** SUMIF
+**** Sum values based on condition
+
+*** COUNTIF
+**** Count values meeting criteria
+
+*** VLOOKUP
+**** Search for value in table
+
+*** HLOOKUP
+**** Horizontal lookup
+
+** Benefit
+
+*** Automate repetitive analysis
+*** Improve speed and accuracy

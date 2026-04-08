@@ -1,0 +1,28 @@
+* Course 4: Analyze Data — Data Analysis Strategy
+
+** Key Steps
+
+*** Define question
+**** What problem are you solving?
+
+*** Explore data
+**** Understand structure and patterns
+
+*** Analyze
+**** Apply functions and calculations
+
+*** Validate
+**** Check for errors or bias
+
+*** Interpret
+**** Convert results into insights
+
+** Best Practices
+
+*** Break problems into smaller steps
+*** Verify results
+*** Avoid assumptions
+
+** Goal
+
+*** Produce reliable and actionable insights
