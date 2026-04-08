@@ -1,0 +1,40 @@
+* Course 3: Prepare Data — Module 4
+
+** Data Validation
+
+*** Definition
+**** Ensure data is correct and usable
+
+*** Methods
+**** Range checks
+**** Format checks
+**** Consistency checks
+
+** Data Integrity
+
+*** Accuracy
+*** Completeness
+*** Consistency
+
+** Data Bias
+
+*** Definition
+**** Systematic error in data
+
+*** Types
+**** Sampling bias
+**** Measurement bias
+
+** Documentation
+
+*** Record data sources
+*** Track transformations
+*** Maintain data dictionary
+
+** Workflow
+
+*** Collect → Clean → Validate → Store
+
+** Key Insight
+
+*** Poor data quality = unreliable insights

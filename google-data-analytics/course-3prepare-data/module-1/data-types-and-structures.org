@@ -1,0 +1,47 @@
+* Course 3: Prepare Data — Module 1
+
+** Data Types
+
+*** Structured Data
+**** Organized in rows and columns
+**** Stored in databases and spreadsheets
+
+*** Unstructured Data
+**** No predefined format
+**** Examples: text, images, videos
+
+** Data Formats
+
+*** CSV
+**** Comma-separated values
+**** Lightweight and common
+
+*** XLSX
+**** Excel format
+**** Supports formulas and formatting
+
+*** SQL Tables
+**** Stored in relational databases
+
+** Data Sources
+
+*** Internal
+**** Company systems
+
+*** External
+**** Public datasets
+**** APIs
+
+** Data Integrity
+
+*** Definition
+**** Accuracy and consistency of data
+
+*** Importance
+**** Ensures reliable analysis
+
+** Common Issues
+
+*** Missing data
+*** Duplicate records
+*** Inconsistent formats

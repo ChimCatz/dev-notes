@@ -1,0 +1,43 @@
+* Course 3: Prepare Data — Module 2
+
+** Data Collection
+
+*** Methods
+**** Surveys
+**** Transactions
+**** Sensors
+**** Logs
+
+*** Considerations
+**** Accuracy
+**** Completeness
+**** Bias
+
+** Data Storage
+
+*** Databases
+**** Structured storage
+**** Query using SQL
+
+*** Data Warehouses
+**** Large-scale storage
+**** Optimized for analysis
+
+*** Cloud Storage
+**** Scalable and accessible
+**** Example: Google Cloud, AWS
+
+** Data Security
+
+*** Protect sensitive data
+*** Control access
+*** Follow regulations
+
+** Data Ownership
+
+*** Definition
+**** Responsibility for data
+
+*** Roles
+**** Data owners
+**** Data stewards

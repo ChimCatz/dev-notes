@@ -1,0 +1,39 @@
+* Course 3: Prepare Data — Module 3
+
+** Data Cleaning
+
+*** Purpose
+**** Improve data quality before analysis
+
+** Common Tasks
+
+*** Remove duplicates
+*** Handle missing values
+*** Fix formatting issues
+*** Standardize data
+
+** Data Transformation
+
+*** Convert formats
+*** Normalize values
+*** Merge datasets
+
+** Outliers
+
+*** Definition
+**** Data points far from others
+
+*** Impact
+**** Can skew analysis results
+
+** Tools
+
+*** Spreadsheets
+*** SQL
+*** Python (pandas)
+
+** Best Practices
+
+*** Keep raw data unchanged
+*** Document changes
+*** Validate results
