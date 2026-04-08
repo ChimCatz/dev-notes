@@ -1,0 +1,22 @@
+* Course 4: Analyze Data — Interpreting Results
+
+** Purpose
+
+*** Turn analysis into meaning
+
+** Key Questions
+
+*** What changed?
+*** Why did it change?
+*** What does it mean?
+
+** Example
+
+*** Drop in revenue
+**** Possible causes:
+***** Fewer transactions
+***** Lower prices
+
+** Insight
+
+*** Data needs context to be useful

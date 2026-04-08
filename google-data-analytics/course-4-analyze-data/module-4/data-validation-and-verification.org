@@ -1,0 +1,19 @@
+* Course 4: Analyze Data — Data Validation and Verification
+
+** Validation
+
+*** Ensure data is correct before analysis
+
+** Verification
+
+*** Confirm results are accurate after analysis
+
+** Methods
+
+*** Cross-check calculations
+*** Compare with source data
+*** Re-run analysis
+
+** Goal
+
+*** Prevent incorrect conclusions

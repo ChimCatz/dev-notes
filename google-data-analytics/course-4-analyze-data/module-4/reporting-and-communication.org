@@ -1,0 +1,26 @@
+* Course 4: Analyze Data — Reporting and Communication
+
+** Goal
+
+*** Communicate insights clearly
+
+** Components
+
+*** Summary
+**** Key findings
+
+*** Visualization
+**** Charts and tables
+
+*** Explanation
+**** Context and meaning
+
+** Best Practices
+
+*** Keep it simple
+*** Focus on key insights
+*** Avoid unnecessary detail
+
+** Audience
+
+*** Tailor message to stakeholders

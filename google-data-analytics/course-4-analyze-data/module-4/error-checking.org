@@ -1,0 +1,43 @@
+* Course 4: Analyze Data — Error Checking
+
+** Common Errors
+
+*** Incorrect formulas
+*** Missing values
+*** Duplicates
+*** Wrong data types
+
+** Techniques
+
+*** Use sample checks
+*** Validate totals
+*** Review formulas
+
+** Example
+
+*** Sum mismatch → indicates missing or extra data
+
+** Goal
+
+*** Detect and fix issues early* Course 4: Analyze Data — Interpreting Results
+
+** Purpose
+
+*** Turn analysis into meaning
+
+** Key Questions
+
+*** What changed?
+*** Why did it change?
+*** What does it mean?
+
+** Example
+
+*** Drop in revenue
+**** Possible causes:
+***** Fewer transactions
+***** Lower prices
+
+** Insight
+
+*** Data needs context to be useful

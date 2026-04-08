@@ -1,0 +1,24 @@
+* Course 4: Analyze Data — Decision Making
+
+** Role of Analyst
+
+*** Provide insights, not decisions
+
+** Decision Process
+
+*** Identify problem
+*** Analyze data
+*** Interpret results
+*** Recommend actions
+
+** Example
+
+*** Insight
+**** Low-performing products
+
+*** Action
+**** Adjust pricing or marketing
+
+** Key Idea
+
+*** Data supports decisions, not replaces judgment
